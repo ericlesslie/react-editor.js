@@ -36,6 +36,8 @@ Editor.js is an open-source text editor offering a variety of features to help u
 
 Editor.js outputs a clean JSON data instead of heavy HTML markup. Use it in Web, iOS, Android, AMP, Instant Articles, speech readers, AI chatbots — everywhere. Easy to sanitize, extend and integrate with your logic. 
 
+Reqct Editor.js is a port of the original Editor.js project to a headless component.
+
 - 😍  Modern UI out of the box
 - 💎  Clean JSON output
 - ⚙️  Well-designed API
