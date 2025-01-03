@@ -15,28 +15,22 @@
   
 </p>
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/@editorjs/editorjs">
-    <img src="https://flat.badgen.net/npm/v/@editorjs/editorjs?icon=npm" alt="npm"/>
-  </a>
-  <a href="https://www.npmjs.com/package/@editorjs/editorjs">
-    <img src="https://flat.badgen.net/bundlephobia/minzip/@editorjs/editorjs?color=green" alt="Minzipped size"/>
-  </a>
-  <a href="https://github.com/codex-team/editor.js#backers">
-    <img src="https://opencollective.com/editorjs/backers/badge.svg" alt="Backers on Open Collective"/>
-  </a>
-  <a href="https://github.com/codex-team/editor.js#sponsors">
-    <img src="https://opencollective.com/editorjs/sponsors/badge.svg" alt="Sponsors on Open Collective"/>
-  </a>
-</p>
+## About React Editor.js
 
-## About
+React Editor.js is a work-in-progress port of the original Editor.js project to a headless component.
+
+### Goals
+
+- [ ] Import React
+- [ ] Begin Port
+- [ ] Research a headless UI styling with Tailwind for customization
+
+### About Vanilla Editor.js
 
 Editor.js is an open-source text editor offering a variety of features to help users create and format content efficiently. It has a modern, block-style interface that allows users to easily add and arrange different types of content, such as text, images, lists, quotes, etc. Each Block is provided via a separate plugin making Editor.js extremely flexible.
 
 Editor.js outputs a clean JSON data instead of heavy HTML markup. Use it in Web, iOS, Android, AMP, Instant Articles, speech readers, AI chatbots — everywhere. Easy to sanitize, extend and integrate with your logic. 
 
-React Editor.js is a port of the original Editor.js project to a headless component.
 
 - 😍  Modern UI out of the box
 - 💎  Clean JSON output
@@ -49,6 +43,8 @@ React Editor.js is a port of the original Editor.js project to a headless compon
 </picture>   
 
 ## Installation
+
+To install the original Editor.js follow the steps below.
 
 It's quite simple:
 
