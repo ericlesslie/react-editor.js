@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Block } from "./Block";
 
 function Editor() {
   const [count, setCount] = useState(0);
